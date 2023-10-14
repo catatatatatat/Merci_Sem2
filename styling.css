@@ -106,7 +106,7 @@
 /* Form Page */
 .bgcar
 {
-    background-image: url(assets/bgcarsignin.jpg);
+    background-image: url('./assets/bgcarsignin.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
